@@ -29,3 +29,4 @@ for (let i= height - 1; i>= 1; i--){
     }
     console.log(line); // shows current line
 }
+
